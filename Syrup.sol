@@ -5,7 +5,7 @@ import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
 import "@openzeppelin/contracts/token/ERC20/extensions/ERC20Burnable.sol";
 import "@openzeppelin/contracts/access/Ownable.sol";
  
-import "https://github.com/umairb56/blockchain-repository/blob/main/Ecoswap.sol";
+//import "https://github.com/umairb56/blockchain-repository/blob/main/Ecoswap.sol";
  
 contract Syrup is ERC20, ERC20Burnable, Ownable {
     Ecoswap public cake;
